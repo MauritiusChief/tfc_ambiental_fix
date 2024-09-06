@@ -1,3 +1,4 @@
+/* 
 package com.example.examplemod;
 
 import net.minecraft.resources.ResourceLocation;
@@ -62,3 +63,4 @@ public class Config
                 .collect(Collectors.toSet());
     }
 }
+*/
